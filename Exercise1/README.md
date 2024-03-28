@@ -8,7 +8,13 @@ The client side is built from React TypeScript
 The application displays the list of members of the health insurance funds
 Includes data on the corona virus
 You can add a health insurance member, edit details and delete
-Here are the main screenshots:
+Here are the
+
+##external dependencies:
+
+node.js, npm
+
+##main screenshots:
 Homescreen:
 
 ![alt text](image.png)
@@ -28,3 +34,5 @@ Edit Member:
 UpdateMember:
 
 ![alt text](image-4.png)
+
+
