@@ -1,0 +1,74 @@
+.edit-member-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .edit-member-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .edit-member-form .form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .edit-member-form .form-group {
+    flex: 1;
+    margin-right: 15px;
+  }
+  
+  .edit-member-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .edit-member-form input[type='text'],
+  .edit-member-form input[type='tel'],
+  .edit-member-form input[type='date'],
+  .edit-member-form select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  .edit-member-form .error-messages {
+    margin-bottom: 15px;
+    color: red;
+  }
+  
+  .edit-member-form .required-indicator {
+    color: red;
+  }
+  
+  .edit-member-form button[type='submit'],
+  .edit-member-form button[type='button'] {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .Vaccine-button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #47a135;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+  }
+  
+    
