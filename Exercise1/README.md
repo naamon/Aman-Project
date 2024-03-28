@@ -10,11 +10,11 @@ Includes data on the corona virus
 You can add a health insurance member, edit details and delete
 Here are the
 
-##external dependencies:
+## external dependencies:
 
 node.js, npm
 
-##main screenshots:
+## main screenshots:
 Homescreen:
 
 ![alt text](image.png)
