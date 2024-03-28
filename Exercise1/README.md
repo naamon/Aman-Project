@@ -1,7 +1,10 @@
 # HMO Project
 
 ## Project Overview
-This project represents a client side
+This project consists of a server side and a client side
+The server side is built in python and connected to a sqlite database
+The client side is built from React TypeScript
+
 The application displays the list of members of the health insurance funds
 Includes data on the corona virus
 You can add a health insurance member, edit details and delete
@@ -10,7 +13,7 @@ Homescreen:
 
 ![alt text](image.png)
 
-Ddd New Member:
+Add New Member:
 
 ![alt text](image-1.png)
 
